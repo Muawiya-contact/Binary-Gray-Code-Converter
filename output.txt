@@ -1,0 +1,3 @@
+Binary: 1011  
+Gray Code: 1110  
+Converted Back to Binary: 1011  
